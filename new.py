@@ -135,6 +135,7 @@ for episode in tqdm(range(n_episodes)):
 
     from matplotlib import pyplot as plt
 
+'''
 def get_moving_avgs(arr, window, convolution_mode):
     """Compute moving average to smooth noisy data."""
     return np.convolve(
@@ -181,4 +182,4 @@ axs[2].set_ylabel("Temporal Difference Error")
 axs[2].set_xlabel("Step")
 
 plt.tight_layout()
-plt.show()
+plt.show()'''
