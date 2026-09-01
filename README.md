@@ -28,3 +28,8 @@ Microstructure: bid-ask spread, order book imbalance (what you're asking about)
 Cross-asset: VIX level, sector ETF returns, correlated names
 
 this is where alpha lies
+
+learn patterns within price action
+price action 
+time price bid ask size volume
+after t + 1.
